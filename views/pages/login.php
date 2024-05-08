@@ -1,8 +1,5 @@
 <?php
-/**
- * @var \App\Kernel\View\ViewInterface $view
- * @var \App\Kernel\Session\SessionInterface $session
- */
+
 ?>
 
 <?php $view->component('start_simple'); ?>
