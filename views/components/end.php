@@ -1,6 +1,6 @@
 <?php
 /**
- * @var \App\Kernel\View\ViewInterface $view
+
  */
 ?>
 
