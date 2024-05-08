@@ -1,11 +1,5 @@
 <?php
-/**
- * @var \App\Kernel\Auth\AuthInterface $auth
- * @var \App\Kernel\View\ViewInterface $view
- * @var \App\Kernel\Session\SessionInterface $session
- * @var \App\Kernel\Storage\StorageInterface $storage
- * @var \App\Models\Movie $movie
- */
+
 ?>
 
 <?php $view->component('start'); ?>
